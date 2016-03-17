@@ -2,6 +2,7 @@
 CIV V download/submission script for GMR
 
 WINDOWS
+
 1. Install python on your computer from here: https://www.python.org/downloads/
 
 2. When installing, make sure to check the box that says “Add python to environment variable” (so you can access it from command prompt)
@@ -13,6 +14,7 @@ WINDOWS
 5. Then type “pip install requests”
 
 MAC
+
 1. Go to terminal, type “sudo easy_install pip” and then enter your password
 
 2. Type “sudo pip install requests”
