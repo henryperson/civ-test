@@ -19,4 +19,6 @@ MAC
 
 2. Type “sudo pip install requests”
 
-You need to open "civMultiplayer.py" in a text editor and change the global variable AUTH_KEY to your authentication key found here: # Available here: http://multiplayerrobot.com/Download
+You need to open "civMultiplayer.py" in a text editor and change the global variable AUTH_KEY to your authentication key found here: http://multiplayerrobot.com/Download
+
+To run, just double click the "gmr" file. If that doesn't work, then if you are on Windows, go to command prompt, cd to the directory you stored this in, and type "python gmr". If you are on a Mac, then open terminal, cd to the directory you stored this in, and type "./gmr"
